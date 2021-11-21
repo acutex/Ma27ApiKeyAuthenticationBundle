@@ -1,5 +1,5 @@
 {
-    "name": "ma27/api-key-authentication-bundle",
+    "name": "acutex/api-key-authentication-bundle",
     "description": "A bundle that provides the possibility to generate api keys for rest apis",
     "type": "symfony-bundle",
     "keywords": ["Authentication", "Api Key", "Symfony Bundle", "Security"],
